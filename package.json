@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "twilio_otp_generator"
+    "url": "https://github.com/Manichandhan/twilio_otp_generator.git "
   },
   "author": "manichandhankumar",
   "license": "MIT",
