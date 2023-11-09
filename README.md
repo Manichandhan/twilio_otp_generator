@@ -1,7 +1,7 @@
 # Project Name
 Twilio OTP Generator
 
-This is a Piece of code to Generate using twilio
+This is a Piece of code to Generate Mobile otp using twilio
 
 
 ## Installation
